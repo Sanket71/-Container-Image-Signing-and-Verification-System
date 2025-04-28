@@ -5,3 +5,7 @@ signatures before deployment. This ensures that only trusted and untampered imag
 are used within the Kubernetes cluster. The system should enforce signature checks via 
 Kubernetes admission controllers, preventing unauthorized or unsigned images from 
 being deployed. 
+
+
+# for more  how to run 
+open 39.pdf file
